@@ -1,6 +1,7 @@
 # Kids Voice Assistant
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/aea3beab-c5c1-45f9-813f-08318db6c05d" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b2988317-2733-4e27-be51-e47f042ae642" />
+
 
 A voice assistant project for kids that is friendly, helpful, and not intrusive.
 
@@ -111,9 +112,11 @@ The System message for my current assistant is:
 "Your name is Lexa. Speak in child friendly tone. Omit all critical topics. Always be friendly."
 
 My setup currently looks like:
-<img width="752" height="1002" alt="image" src="https://github.com/user-attachments/assets/a2889452-7156-4696-871a-512a1ab0d2a5" />
+<img width="752" height="1002" alt="image" src="https://github.com/user-attachments/assets/e1a3c1aa-55bc-4730-a0c2-03455ad7b149" />
 
-<img width="752" height="1002" alt="image" src="https://github.com/user-attachments/assets/9d30833e-65a1-4777-88be-877b9d920a09" />
+
+<img width="752" height="1002" alt="image" src="https://github.com/user-attachments/assets/297db9e7-431c-4de9-9f50-8b19253adb28" />
+
 
 I am using the following components:
 
